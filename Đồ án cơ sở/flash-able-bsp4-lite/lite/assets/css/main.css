@@ -1,0 +1,89 @@
+.auth-wrapper .auth-content.container .card .row.align-items-center .col-md-6 .card-body .top_logo h4{
+    font-family: 'Ink Free', cursive;
+    color: #f79595;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.auth-wrapper .auth-content.container .card .row.align-items-center .col-md-6 .card-body h4.mb-3.f-w-400{
+    font-size: 20px;
+}
+
+.card-body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.auth-wrapper .auth-content.container .card .row.align-items-center .col-md-6 .card-body .input-group.mb-2{
+    margin-bottom: 0.5rem!important;
+}
+
+.auth-wrapper .auth-content.container .card .row.align-items-center .col-md-6 .card-body .input-group.mb-3{
+    margin-bottom: 0.5rem!important;
+}
+
+.auth-wrapper .auth-content.container .card .row.align-items-center .col-md-6 .card-body .input-group.mb-4{
+    margin-bottom: 0.5rem!important;
+}
+
+.auth-wrapper .auth-content.container .card .row.align-items-center .col-md-6 .card-body .input-group.mb-5{
+    margin-bottom: 0.5rem!important;
+}
+
+.btn.btn-primary.mb-4{
+    margin-top: 20px;
+}
+
+.pcoded-navbar.menupos-fixed.menu-light.brand-blue .navbar-wrapper .navbar-brand.header-logo a.b-brand h4{
+    font-family: 'Ink Free', cursive;
+    color: #f79595;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.form_product{
+    margin: 0;
+}
+
+.form_product form label{
+    margin-top: 10px;
+}
+
+.form_product form input{
+    height: 30px;
+    display: block;
+}
+
+.form_product form select{
+    height: 30px;
+    display: block;
+}
+
+.form_product form textarea{
+    height: 30px;
+    display: block;
+}
+
+.table_product{
+    margin-top: 30px;
+}
+
+table, th, td{
+    border: 1px solid rgb(202, 200, 200);
+    padding: 15px;
+}
+
+tr:hover{
+    background-color: #e4e4e4;
+}
+
+h3{
+    text-align: left;
+    padding-bottom: 20px;
+}
+
+h4{
+    font-family: 'Ink Free', cursive;
+    color: #f79595;
+    font-size: 30px;
+    font-style: italic;
+}

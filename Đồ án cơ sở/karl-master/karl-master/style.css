@@ -1,0 +1,213 @@
+    /* ----------------------------------------------------------
+    :: Template Name: Karl - Fashion Ecommerce Template
+    :: Author: Colorlib
+    :: Author URL: https://colorlib.com
+    :: Description: Karl is smart & elegant fashion e-commerce Template. It's suitable for all e-commerce business platform. It's super responsive for all      Desktop/Mobile layout.
+    :: Version: 1.0
+    :: Created: 09 January 2018
+    :: Last Updated: 09 January 2018
+    ---------------------------------------------------------- */
+
+    /* -------------------------------------------------
+    ============ PLACE YOUR CUSTOM CSS HERE ============
+    ------------------------------------------------- */
+/*section .container .row{
+    justify-content: ;
+}*/
+
+.product-description h4.product-price{
+    font-size: medium;
+    color:black;
+    text-align: center;
+}
+
+.product-description p{
+    text-align: center;
+    color: #e7a880;
+    padding: 5px;
+}
+
+.product-description a.add-to-cart-btn{
+    padding: 10px;
+    color: #e7a880;
+    text-align: center;
+    font-size: medium;
+    border-color: #e7a880;
+    border-style: solid;
+    border-radius: 20px 20px 20px 20px;
+    border-width: 2px;
+    
+}
+
+.shop_grid_area.section_padding_50 .container .col-12.col-md-8.col-lg-9{
+    border: 1px solid #ddd;
+    padding: 0px;
+    
+}
+
+.shop_grid_area.section_padding_50 .container{
+
+}
+
+ul.pagination.pagination-sm li.page-item.active a.page-link{
+    color: #e7a880;
+    border-style: hidden;
+
+}
+
+div.shop_grid_product_area div.row{
+    padding: 20px;
+}
+
+.main_header_area{
+    background: linear-gradient(to bottom, #ffffff 0%, #ffe6e6 63%);
+}
+
+.header_area.bg-img.background-overlay-white .main_header_area{
+    padding: 10px;
+}
+
+.top_logo h4{
+    font-family: 'Ink Free', cursive;
+    color: #f79595;
+    font-size: 50px;
+    text-align: center;
+    font-style: italic;
+}
+
+.main_header_area .container.h-100 .row.h-100 .col-12.d-md-flex.justify-content-between{
+    padding: 5px;
+}
+
+
+.main_header_area .container.h-100 .row.h-100 .col-12.d-md-flex.justify-content-between form input{
+    border-radius: 5px 5px 5px 5px;
+    padding: 0 15px 0 15px;
+    margin: 5px;
+}
+
+.main_header_area .container.h-100 .row.h-100 .col-12.d-md-flex.justify-content-between form button{
+    width: 20px;
+}
+
+section.welcome_area{
+
+}
+
+footer.footer_area{
+    background: linear-gradient(to bottom, #ffffff 0%, #ffe6e6 63%);
+}
+
+
+.footer-logo h1{
+    font-family: 'Ink Free', cursive;
+    color: #f79595;
+    font-size: 100px;
+    font-style: italic;
+}
+
+div.single_footer_area ul.footer_widget_menu span{
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    display: block;
+}
+
+section.new_arrivals_area.section_padding_100_0.clearfix .container .row .container .row.karl-new-arrivals{
+    border: 1px;
+}
+
+section.new_arrivals_area.section_padding_100_0.clearfix div.container div.row h2{
+    margin: 20px;
+}
+
+
+section.new_arrivals_area.section_padding_100_0.clearfix .container .row .container .row.carl-new-arrivals .col-12.col-sm-6.col-md-4.single_gallery_item.women.wow.fadeInUpBig{
+    padding: 0 0 20px 0;
+}
+
+.products_section h4{
+    font-weight: 600;
+    padding: 10px 0 5px 0;
+}
+
+.product-description h6{
+    text-align: center;
+    font-weight: 450;
+}
+.shop_grid_area.section_padding_50{
+    margin-bottom: 25px;
+}
+
+.shop_grid_area.section_padding_50 .container .col-12 form{
+    border: 1px solid #ddd;
+    padding: 30px 200px 50px 200px;
+    margin: 0px 200px 60px 200px;
+    font-style: italic;
+}
+
+.shop_grid_area.section_padding_50 .container .row .col-12 .title h4{
+    padding: 0px; 
+    margin: 20px;
+    text-align: center;
+}
+
+.shop_grid_area.section_padding_50 .container .col-12 form input{
+    font-style: normal;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.shop_grid_area.section_padding_50 .container .row .col-12 .title_signin h4{
+    padding: 0px; 
+    margin: 20px;
+    text-align: center;
+}
+
+.shop_grid_area.section_padding_50 .container .col-12_signin form{
+    border: 1px solid #ddd;
+    padding: 30px 200px 50px 200px;
+    margin: 0px 200px 60px 200px;
+    font-style: italic;
+}
+
+.shop_grid_area.section_padding_50 .container .col-12_signin form input{
+    font-style: normal;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.shop_grid_area.section_padding_50 .container .col-12_signin form input#matkhau{
+    margin-bottom: 35px;
+}
+
+.shop_grid_area.section_padding_50 .container .col-12 form input#gmail{
+    margin-bottom: 35px;
+}
+
+.products_section{
+    background-color: rgb(255, 255, 255);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.cart_area.section_padding_100.clearfix{
+    padding-top: 20px;
+}
+
+.header_area.bg-img.background-overlay-white .main_header_area .container.h-100 .row.h-100 form{
+    margin: 0 auto;
+}
+
+.header_area.bg-img.background-overlay-white .main_header_area .container.h-100 .row.h-100 form input{
+    width: 250px;
+}
+
+.shop_grid_area.section_padding_50 .container .col-12.col-md-8.col-lg-9{
+    margin: 0 auto;
+}
+
+.products_section .row{
+    height: fit-content !important;
+    padding-bottom: 20px;
+}
